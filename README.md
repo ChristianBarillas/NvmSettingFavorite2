@@ -1,0 +1,1 @@
+# NvmSettingFavorite2
